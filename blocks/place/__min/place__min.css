@@ -7,7 +7,7 @@
     grid-template-rows: 124px auto;
 }
 
-@media screen and (max-width: 1279px){
+@media screen and (max-width: 1279px) {
 	 .place__min {
         max-width: 928px;
         grid-template-columns: 472px 456px;
@@ -20,7 +20,7 @@
         max-width: 720px;
         grid-template-columns: 368px 352px;
         grid-template-rows: 94px auto;
-        margin: 72px auto 0
+        margin: 72px auto 0;
     }
 }
 
