@@ -7,7 +7,7 @@
     grid-template-rows: 124px auto;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1279px){
 	 .place__min {
         max-width: 928px;
         grid-template-columns: 472px 456px;

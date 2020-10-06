@@ -1,7 +1,7 @@
 /*---------------------------------------------------------------------------------------------Fonts*/
 @import url(../vendor/fonts.css);
 /*-----------------------------------------------------------------------------------------Normalize*/
-@import url(../styles/normalize.css);
+@import url(../vendor/normalize.css);
 /*---------------------------------------------------------------------------------------------Body*/
 @import url(../blocks/body/body.css);
 /*---------------------------------------------------------------------------------------------Cover*/
@@ -42,13 +42,10 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__link/place__link.css);
-@import url(../blocks/place/__min/place__min.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__table/place__table.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
-@import url(../blocks/place/__website-top/place__website-top.css);
-@import url(../blocks/place/__website-top/_baikal/place__website-top_baikal.css);
-@import url(../blocks/place/__website/_inline-text/place__website_inlinte-text.css);
+@import url(../blocks/place/__website/place__website.css);
 /*---------------------------------------------------------------------------------------------Places*/
 @import url(../blocks/places/places.css);
